@@ -24,3 +24,5 @@ Here are some of my recent publications:
 - ResearchGate: [Johanna R Blöcher](https://www.researchgate.net/profile/Johanna-Bloecher)
 
 Feel free to reach out if you're interested in collaborative research, discussions about soil physics, hydrology, or data analysis methodologies. Let's explore the wonders of science together! 🌱🔬💧
+
+## [About](https://jorub.github.io/stuff/about)
