@@ -1,6 +1,6 @@
 # Hello, I'm Johanna, an Environmental Scientist and Modeler! 👩‍🔬🌱
 
-Welcome to my GitHub profile! I am deeply fascinated by **soil** and **hydrology** using **Environmental Modeling** *and **data analysis**. My research journey involves exploring complex coupled processes in **soil** and **hydrology**. 
+Welcome to my GitHub profile! I am deeply fascinated by **soil** and **hydrology** using **Environmental Modeling** and **data analysis**. My research journey involves exploring complex coupled processes in **soil** and **hydrology**. 
 
 ## Research and Publications
 
