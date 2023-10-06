@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Hello, I'm Johanna, an Environmental Scientist and Modeler! 👩‍🔬🌱
 
-You can use the [editor on GitHub](https://github.com/Jorub/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my GitHub profile! I am deeply fascinated by **soil** and **hydrology** using **Environmental Modeling** *and **data analysis**. My research journey involves exploring complex coupled processes in **soil** and **hydrology**. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research and Publications
 
-### Markdown
+Here are some of my recent publications:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **"Validating Coupled Flow Theory for Bare-Soil Evaporation Under Different Boundary Conditions"** - Published in *Vadose Zone Journal*, 2023. [Read here](https://doi.org/10.1002/vzj2.20277) [Lab data here](https://doi.org/10.24355/dbbs.084-202308301744-0.) 
+- **"Hybrid Multi-Model Ensemble Learning for Reconstructing Gridded Runoff of Europe for 500 Years"** - Published in *Information Fusion*, 2023. [Read here](https://doi.org/10.1016/j.inffus.2023.101807)
+- **"Pit-mound microrelief on a forested slope drives infiltration and preferential flow after heavy rainfall–experiments with soil resistance monitoring and dye tracing"** - Published in *Catena*, 2021 [Read here](https://doi.org/10.1016/j.catena.2023.107231)
 
-```markdown
-Syntax highlighted code block
+## Research Focus
 
-# Header 1
-## Header 2
-### Header 3
+- **Soil Physics:** Investigating complex processes from soil evaporation to preferential flow. [1](10.1002/vzj2.20277)[2](10.1016/j.catena.2023.107231)[3](10.1029/2020WR028513)[4](10.1016/j.advwatres.2019.103394)
+- **Data Analysis:** Utilizing advanced statistical methods and data visualization techniques for meaningful insights into natural hazards. [5](10.5194/nhess-22-3501-2022)[6](https://doi.org/10.1016/j.jhydrol.2021.127002)[7](10.1016/j.scitotenv.2022.156304)[8](10.1016/j.scitotenv.2021.151805)[9](10.1016/j.geoderma.2021.114945)
+- **Environmental Modeling:** Using and developing numerical models to simulate and analyze coupled water and heat flow in soil. [10](10.1016/j.advengsoft.2022.103278)[11](10.1016/j.jhydrol.2018.12.045)
 
-- Bulleted
-- List
+## Let's Connect!
 
-1. Numbered
-2. List
+- Twitter: [@jr_bloecher]([https://twitter.com/yourusername](https://twitter.com/jr_bloecher)
+- ResearchGate: [Johanna R Blöcher]([https://www.researchgate.net/profile/yourusername](https://www.researchgate.net/profile/Johanna-Bloecher)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jorub/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to reach out if you're interested in collaborative research, discussions about soil physics, hydrology, or data analysis methodologies. Let's explore the wonders of science together! 🌱🔬💧
