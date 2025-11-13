@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I am deeply fascinated by **soil** and **hydrology
 ## Research and Publications
 
 Here are some of my recent publications:
+- **"Which Precipitation Dataset to Choose for Hydrological Studies of the Terrestrial Water Cycle?*, 2025. [Read here](10.1175/BAMS-D-24-0306.1) [Code here](https://github.com/imarkonis/ithaca/tree/main/projects/uncertainty_prec)[Data pRecipe R package via the download_data() function](https://cran.r-project.org/web/packages/pRecipe/index.html) 
+- **"Unveiling the impact of potential evapotranspiration method selection on trends in hydrological cycle components across Europe"*, 2025. [Read here]([https://doi.org/10.1038/s43247-024-01377-9](https://doi.org/10.5194/hess-29-4395-2025) [Data and Code here](https://doi.org/10.5281/zenodo.14008649)
 - **"Spatial partitioning of terrestrial precipitation reveals varying dataset agreement across different environments"** - Published in *Communications Earth & Environment*, 2024. [Read here](https://doi.org/10.1038/s43247-024-01377-9) [Code here](https://github.com/imarkonis/ithaca/tree/main/projects/partition_evap) [Data here](https://zenodo.org/records/10836849)
 - **"Validating Coupled Flow Theory for Bare-Soil Evaporation Under Different Boundary Conditions"** - Published in *Vadose Zone Journal*, 2023. [Read here](https://doi.org/10.1002/vzj2.20277) [Lab data here](https://doi.org/10.24355/dbbs.084-202308301744-0.) 
-- **"Hybrid Multi-Model Ensemble Learning for Reconstructing Gridded Runoff of Europe for 500 Years"** - Published in *Information Fusion*, 2023. [Read here](https://doi.org/10.1016/j.inffus.2023.101807)
-- **"Pit-mound microrelief on a forested slope drives infiltration and preferential flow after heavy rainfall–experiments with soil resistance monitoring and dye tracing"** - Published in *Catena*, 2021 [Read here](https://doi.org/10.1016/j.catena.2023.107231)
 
 ## Research Focus
 - **Terrestrial Water Cycle** Investigating agreement and disagreement of gridded data around the world. Check out project ITHACA [code here](https://github.com/imarkonis/ithaca) and [website here](https://yannismarkonis.wordpress.com/ithaca/)
