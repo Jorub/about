@@ -11,9 +11,9 @@ Selected peer-reviewed publications and current research outputs. For a complete
 
 ## 2026
 
-**Multi-source comparison of recent terrestrial evapotranspiration trends: Introducing a topology framework.**  
-Research presentation and reproducible materials.  
-[Project materials](https://github.com/Jorub/egu2026-et-topology-framework)
+**Agreement, opposition, and dataset influence in global evapotranspiration trends.**  
+*Earth System Science Data Discussions* [preprint], in review.  
+[Preprint](https://doi.org/10.5194/essd-2026-334) · [Dataset](https://doi.org/10.5281/zenodo.19843461) · [Code](https://github.com/Jorub/ithaca/tree/main/projects/trend_evap)
 
 **evapoRe: An R-based application for exploratory data analysis of evapotranspiration.**  
 *Environmental Modelling & Software*.  

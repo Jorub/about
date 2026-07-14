@@ -45,6 +45,9 @@ I develop reproducible workflows for comparing datasets across space and time, d
 
 ## Selected work
 
+**Agreement, opposition, and dataset influence in global evapotranspiration trends**<br>
+*Earth System Science Data Discussions* preprint, in review, 2026. [Preprint](https://doi.org/10.5194/essd-2026-334) · [Dataset](https://doi.org/10.5281/zenodo.19843461) · [Code](https://github.com/Jorub/ithaca/tree/main/projects/trend_evap)
+
 **evapoRe: An R-based application for exploratory data analysis of evapotranspiration**<br>
 *Environmental Modelling & Software*, 2026. [Article](https://doi.org/10.1016/j.envsoft.2026.106884) · [R package](https://cran.r-project.org/package=evapoRe)
 

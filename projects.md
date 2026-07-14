@@ -17,9 +17,9 @@ An R-based application and package for exploratory analysis of evapotranspiratio
 
 ## Evapotranspiration topology framework
 
-Reproducible materials for comparing recent terrestrial evapotranspiration trends across multiple data sources using a topology framework.
+Reproducible materials for comparing recent terrestrial evapotranspiration trends across multiple data sources using a topology framework. This work supports the ESSD Discussions preprint on agreement, opposition, and dataset influence in global ET trends.
 
-[GitHub repository](https://github.com/Jorub/egu2026-et-topology-framework)
+[Preprint](https://doi.org/10.5194/essd-2026-334) · [Dataset](https://doi.org/10.5281/zenodo.19843461) · [Code repository](https://github.com/Jorub/ithaca/tree/main/projects/trend_evap)
 
 ## ITHACA
 

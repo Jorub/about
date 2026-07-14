@@ -24,7 +24,7 @@ This work includes:
 
 Evapotranspiration links the water, energy, and carbon cycles, yet it cannot be observed directly at the scales required for global assessment. My work investigates estimates from multiple sources and the methodological choices behind them.
 
-Current themes include terrestrial evapotranspiration trends, topology-based comparison of trend behaviour, exploratory analysis of evapotranspiration products, and the effects of potential evapotranspiration method selection on hydrological conclusions.
+Current themes include terrestrial evapotranspiration trends, topology-based comparison of trend behaviour, exploratory analysis of evapotranspiration products, and the effects of potential evapotranspiration method selection on hydrological conclusions. Recent work introduces a topology framework for classifying agreement, opposition, and dataset influence across global ET trend products.
 
 ## Uncertainty and method sensitivity
 
